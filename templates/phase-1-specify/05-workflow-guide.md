@@ -61,7 +61,7 @@ If not already done, gather answers to these questions:
 Create a folder for all inputs:
 ```
 /docs/discovery/
-  - meeting-transcript-2024-01-15.txt
+  - meeting-transcript-2025-12-15.txt
   - client-requirements.pdf
   - existing-system-docs.md
 ```
