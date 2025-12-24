@@ -180,7 +180,7 @@ Use this template for decisions including:
 
 **Status:** Accepted
 
-**Date:** 2024-01-15
+**Date:** 2025-12-15
 
 ---
 
